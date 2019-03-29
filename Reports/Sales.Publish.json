@@ -1,0 +1,18 @@
+{
+        "D" : {
+            "WorkspaceName" : "Sales-D",
+            "ReportName" : "Sales"			
+        },
+        "T" : {
+            "WorkspaceName" : "Sales-T",
+            "ReportName" : "Sales"               
+        },
+        "A" : {
+            "WorkspaceName" : "Sales-A",
+            "ReportName" : "Sales"                
+        },
+        "P" : {
+            "WorkspaceName" : "Sales",
+            "ReportName" : "Sales"               
+        }
+}

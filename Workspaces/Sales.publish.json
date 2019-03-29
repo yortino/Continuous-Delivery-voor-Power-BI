@@ -1,0 +1,66 @@
+{
+    "D": {
+        "Name": "Sales-D",
+        "Description": "Sales Workspace Development",
+        "Users": [
+            {
+                "emailAddress": "agent@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Admin"
+            },
+            {
+                "emailAddress": "Martijn.Veenvliet@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Admin"
+            }
+        ]
+    },
+    "T": {
+        "Name": "Sales-T",
+        "Description": "Sales Workspace Testing",
+        "Users": [
+            {
+                "emailAddress": "agent@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Admin"
+            },
+            {
+                "emailAddress": "Martijn.Veenvliet@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Admin"
+            }
+        ]
+    },
+    "A": {
+        "Name": "Sales-A",
+        "Description": "Sales Workspace Acceptance",
+        "Users": [
+            {
+                "emailAddress": "agent@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Admin"
+            },
+            {
+                "emailAddress": "Martijn.Veenvliet@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Member"
+            },
+            {
+                "emailAddress": "Marienelle.van.Wijk@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Member"
+            }
+        ]
+    },
+    "P": {
+        "Name": "Sales",
+        "Description": "Sales Workspace",
+        "Users": [
+            {
+                "emailAddress": "agent@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Admin"
+            },
+            {
+                "emailAddress": "Martijn.Veenvliet@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Member"
+            },
+            {
+                "emailAddress": "Marienelle.van.Wijk@yortino.onmicrosoft.com",
+                "groupUserAccessRight": "Member"
+            }
+        ]
+    }
+}
